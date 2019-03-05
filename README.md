@@ -23,7 +23,7 @@ We are a group of 6 students and call ourselves *CDDJJT*. The name is just the f
 
 Firmware used in this project:
 
-*__Hardware:__
+__*Hardware:__
   * Arduino UNO starter kit
   * OpenMV M7 camera
   * ESP8266 WiFi module
