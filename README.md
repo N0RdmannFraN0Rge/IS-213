@@ -16,7 +16,16 @@ We are a group of 6 students and call ourselves *CDDJJT*. The name is just the f
 
 # Report
 
-## Project idea
+## Introduction
+
+This report is a detailed account on how we worked to achieve the goals that we set for this project. The goals we had in the beginning were: 
+* Learn more about OSS
+* Learn more about Arduino
+* Create a device using both Arduino and different open source software
+* Create a working phone application
+                 
+
+### Project idea
 
 **The “problem”**
 Using a pincode for doors are becoming more common nowadays. As we can see there are not many norwegian companies that can deliver a door lock system with facial recognition. As this is a nice feature we believe that there should also be some other way of opening the door such as an application in addition to a physical key. 
@@ -28,3 +37,4 @@ Our project idea is to use facial recognition to open a door lock. To do this we
 We also want to set up a webserver and create a phone application to be able to send Open/close signals to the arduino. 
 
 As we are large group we want to work on both approaches with facial recognition and phone application at the same time. 
+ 
