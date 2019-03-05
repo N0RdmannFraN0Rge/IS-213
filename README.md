@@ -13,3 +13,18 @@ We are a group of 6 students and call ourselves *CDDJJT*. The name is just the f
 | Jarle | Johnsen |
 | Jørgen  | Lefdal  |
 | Thomas  | Theissen  |
+
+# Report
+
+## Project idea
+
+**The “problem”**
+Using a pincode for doors are becoming more common nowadays. As we can see there are not many norwegian companies that can deliver a door lock system with facial recognition. As this is a nice feature we believe that there should also be some other way of opening the door such as an application in addition to a physical key. 
+Coming home from work and the store with your hands full of groceries it would be nice to be able to open the door without having to use a key. 
+If someone else is to enter your house while you are not at home it would be easier to just open the door for them with an application rather than giving them a key to your house. 
+
+**The idea**
+Our project idea is to use facial recognition to open a door lock. To do this we set up a camera with machine learning and use arduino attached to a servo motor to send the signal to open the lock. 
+We also want to set up a webserver and create a phone application to be able to send Open/close signals to the arduino. 
+
+As we are large group we want to work on both approaches with facial recognition and phone application at the same time. 
