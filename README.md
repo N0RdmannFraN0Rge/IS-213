@@ -1,7 +1,14 @@
 # IS-213 - Open-source software
+
 This is CDDJJT's repository for the course IS-213 - Open-source software at UiA. The purpose of this repository is to share our project and the following report. The project can be found in the directories outside of this README-file and the report can be found below.
 
-## Group introduction
+# Report
+
+This is the report following our open-source project. It consists of an introduction and working plan, the working process and a conclusion.
+
+## Foreword
+
+The purpose of this report is to describe and inform the reader of our work process and thoughts throughout this project. The task we were given was to plan and develop a project as open-source software.
 
 We are a group of 6 students and call ourselves *CDDJJT*. The name is just the first letter in our names in alphabetical order. Five of us created this group during the first semester and we have stuck together since then. Jørgen joined the group during the third semester. Working with each other for such a long time have revealed the strengths and weaknesses of each member and taught us that we work best while combining our skills. Some of us are good at writing detailed reports while others are good at coding. Great teamwork has proven to produce fantastic results.
 
@@ -14,16 +21,28 @@ We are a group of 6 students and call ourselves *CDDJJT*. The name is just the f
 | Jørgen  | Lefdal  |
 | Thomas  | Theissen  |
 
-# Report
+Firmware used in this project:
+
+***Hardware:**
+  * Arduino UNO starter kit
+  * OpenMV M7 camera
+  * ESP8266 WiFi module
+
+***Software:**
+  * Arduino IDE
+  * Android Studio
+  * Google Firebase
+  * GitHub
 
 ## Introduction
+
+The task ...
 
 This report is a detailed account on how we worked to achieve the goals that we set for this project. The goals we had in the beginning were: 
 * Learn more about OSS
 * Learn more about Arduino
 * Create a device using both Arduino and different open source software
 * Create a working phone application
-                 
 
 ### Project idea
 
