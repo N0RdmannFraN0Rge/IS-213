@@ -72,4 +72,3 @@ These are the standards that are expected to be followed when contributing to Op
  * Low degree of code duplication
  * High degree of cohesion
  * Low degree of coupling
- * 
