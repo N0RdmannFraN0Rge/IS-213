@@ -1,6 +1,8 @@
 # OpenRT
 
-OpenRT (Open Remote Trigger) is a system for remotely triggering various events. In our specific project we use this solution to open and close a door lock, but it can be used for a lot of other activities as well. In addition, we want to trigger the event by using facial recognition. The usage area for this system is mainly the home, but since it can be used for such a wide range of activities, it is not limited to this area.
+OpenRT (Open Remote Trigger) is a system for remotely triggering various events. In our specific project we use this solution to open and close a door lock, but it can be used for a lot of other activities as well. Other examples are switching on and off lights, wallplugs or other devices. In addition, we want to trigger the event by using facial recognition. The usage area for this system is mainly the home, but since it can be used for such a wide range of activities, it is not limited to this area.
+
+The aim of this project is mainly to provide a simple quality of life solution that enables people to easily make their own devices and trigger them remotely. However, this is not a new and innovative idea as smart solutions like this already exists.
 
 Firmware used in this project:
 
@@ -13,7 +15,6 @@ Firmware used in this project:
   * Arduino IDE
   * Android Studio
   * Google Firebase
-  * GitHub
 
 ## Project idea
 
@@ -72,3 +73,10 @@ These are the standards that are expected to be followed when contributing to Op
  * Low degree of code duplication
  * High degree of cohesion
  * Low degree of coupling
+
+**Code example**
+[Insert snapshot of code here]
+
+#### Testing standards
+
+### Downloading and running code
