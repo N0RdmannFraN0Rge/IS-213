@@ -36,7 +36,7 @@ This part of the document describes how to contribute to this project and what s
 ### Summary
 
 1. Write your contribution
-1. Review the code to make sure you follow the standards (hyperlink).
+1. Review the code to make sure you follow the [standards](#standards).
 1. Send the code for evaluation by submitting a pull request from the correct branch to master.
 
 ### Roles
