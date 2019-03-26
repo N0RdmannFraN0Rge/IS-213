@@ -112,4 +112,3 @@ git clone http://github.com/N0RdmannFraN0Rge/IS-213
 
 Now that all the code has been downloaded locally on the computer, simply open the files in their respective programs. Contribution to the project can now be made.
 
-TEST
