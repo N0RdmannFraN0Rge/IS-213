@@ -8,12 +8,12 @@ To be able to contribute to this project, there are certain programs that has to
 
 ### Android Studios installation guide
 
-1. Download the program from this website: https://developer.android.com/studio
+1. Download [Android Studios](https://developer.android.com/studio).
 1. Run the downloaded file and follow the installation wizard
 
 ### Arduino IDE installation guide
 
-1. Download the program from this website: https://www.arduino.cc/en/main/software
+1. Download [Arduino IDE](https://www.arduino.cc/en/main/software).
 1. Run the downloaded file and follow the installation wizard
 
 ## Deployment
