@@ -18,4 +18,4 @@ Firmware used in this project:
   
   ## Contributing
   
-  Want to contribute to the project? Read how in the [CONTRIBUTE.md file.](CONTRIBUTING.md)
+  Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
