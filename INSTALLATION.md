@@ -4,7 +4,7 @@ This is a document that describes how to install the different programs for cont
 
 ## Program Installation
 
-To be able to contribute to this project, there are certain programs that has to be downloaded and installed on the computer beforehand. The mobile application is written in Android Studios version 3.3.2, the code for the Arduino is written in Arduino IDE version 1.8.9 and the code for the camera is written in OpenMV IDE version 2.1.0. Below is the installation guide for each of these programs.
+To be able to contribute to this project, there are certain programs that has to be downloaded and installed on the computer beforehand. The mobile application is written in Android Studios version 3.3.2 and the code for the Arduino is written in Arduino IDE version 1.8.9. Below is the installation guide for each of these programs.
 
 ### Android Studios installation guide
 
