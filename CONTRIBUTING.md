@@ -23,11 +23,10 @@ In this repository there are two different types of branches:
 1. Master branch
 1. Topic branches
 
-There are four topic branches. When contributing, make sure you are working in the correct branch:
+There are three topic branches. When contributing, make sure you are working in the correct branch:
 
 1. Branch for phone application code
 1. Branch for Arduino code
-1. Branch for OpenMV code
 1. Branch for WiFi module code
 
 ### Standards
@@ -45,7 +44,8 @@ These are the standards that are expected to be followed when contributing to Op
  * Low degree of coupling
 
 **Code example**
-[Insert snapshot of code here]
+*Insert snapshot of code here*
 
 #### Testing standards
 
+*Insert relevant testing here*
