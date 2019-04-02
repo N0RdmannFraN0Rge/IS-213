@@ -16,30 +16,30 @@ Firmware used in this project:
   * Arduino IDE
   * Android Studio
   
-  ## Contributing
+## Contributing
   
-  Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-### Program Installation
+## Program Installation
 
 To be able to contribute to this project, there are certain programs that has to be downloaded and installed on the computer beforehand. The mobile application is written in Android Studios version 3.3.2, the code for the Arduino is written in Arduino IDE version 1.8.9 and the code for the camera is written in OpenMV IDE version 2.1.0. Below is the installation guide for each of these programs.
 
-#### Android Studios installation guide
+### Android Studios installation guide
 
 1. Download the program from this website: https://developer.android.com/studio
 1. Run the downloaded file and follow the installation wizard
 
-#### Arduino IDE installation guide
+### Arduino IDE installation guide
 
 1. Download the program from this website: https://www.arduino.cc/en/main/software
 1. Run the downloaded file and follow the installation wizard
 
-#### OpenMV IDE installation guide
+### OpenMV IDE installation guide
 
 1. Download the program from this website: https://openmv.io/pages/download
 1. Run the downloaded file and follow the installation wizard
 
-### Deployment
+## Deployment
 
 Once all necessary programs are installed on the computer, the code can be either cloned or downloaded directly from our GitHub. Follow one of the two approaches below.
 
