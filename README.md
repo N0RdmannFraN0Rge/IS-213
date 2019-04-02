@@ -22,4 +22,4 @@ Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Program Installation
 
-To install the different programs and get the code follow the [INSTALLATION.md](INSTALLATION.md) file.
+For instruction on how to build and run OpenRT locally, follow the [INSTALLATION.md](INSTALLATION.md) file.
