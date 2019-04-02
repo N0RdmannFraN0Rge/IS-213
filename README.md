@@ -15,11 +15,11 @@ Firmware used in this project:
 * **Software:**
   * Arduino IDE
   * Android Studio
-  
-## Contributing
-  
-Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## Program Installation
+## Getting Started
 
 For instruction on how to build and run OpenRT locally, follow the [INSTALLATION.md](INSTALLATION.md) file.
+
+## Contributing
+
+Want to contribute to the project? Read how in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
