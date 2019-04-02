@@ -1,3 +1,6 @@
+# Installation Instructions
+
+This is a document that describes how to install the different programs for contributing and how to download the code to be able to run OpenRT.
 
 ## Program Installation
 
@@ -11,11 +14,6 @@ To be able to contribute to this project, there are certain programs that has to
 ### Arduino IDE installation guide
 
 1. Download the program from this website: https://www.arduino.cc/en/main/software
-1. Run the downloaded file and follow the installation wizard
-
-### OpenMV IDE installation guide
-
-1. Download the program from this website: https://openmv.io/pages/download
 1. Run the downloaded file and follow the installation wizard
 
 ## Deployment
