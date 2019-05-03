@@ -27,7 +27,7 @@ There are three topic branches. When contributing, make sure you are working in 
 
 1. Branch for phone application code
 1. Branch for Arduino code
-1. Branch for WiFi module code
+1. Branch for HTML and CSS for the webpage
 
 ### Standards
 
