@@ -42,6 +42,7 @@ Follow basic programming principles. These includes:
 * Low degree of code duplication
 * High degree of cohesion
 * Low degree of coupling
+Preferably, each segment of code should be explained with a comment.
 
 **Code example**
 
