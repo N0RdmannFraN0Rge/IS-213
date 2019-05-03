@@ -13,6 +13,7 @@ Hardware and software used in this project:
 * **Hardware:**
   * Arduino UNO starter kit
   * ESP8266 WiFi module
+  * ESP8266 Breakout board
 
 * **Software:**
   * Arduino IDE
