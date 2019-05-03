@@ -1,6 +1,14 @@
 # Installation Instructions
 
-This is a document that describes how to install the different programs for contributing and how to download the code to be able to run OpenRT.
+This is a document that describes how to install the different programs for contributing and how to download the code to be able to run OpenFB.
+
+## Prerequisites
+
+This project requires that you have a website with a connected database. You can use any service for this, but we chose to use these:
+* DigitalOcean - Website with Java classes and servlets
+* MySQL - Database used to store data
+* phpMyAdmin - Used to directly administrate/manipulate the database
+All of these services are open source alternatives.
 
 ## Program Installation
 
@@ -29,3 +37,7 @@ git clone http://github.com/N0RdmannFraN0Rge/IS-213
 2. Download a zip file directly from our GitHub repository and extract the downloaded files from the zip folder.
 
 Now that all the code has been downloaded locally on the computer, simply open the files in their respective programs. Contribution to the project can now be made.
+
+### Arduino setup
+
+
