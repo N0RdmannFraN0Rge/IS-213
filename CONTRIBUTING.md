@@ -44,4 +44,5 @@ Follow basic programming principles. These includes:
 * Low degree of coupling
 
 **Code example**
-*Insert snapshot of code here*
+
+<img src="https://user-images.githubusercontent.com/35686045/57139908-ba627180-6db6-11e9-987b-010489e4e500.png" width="50%"></img> 
