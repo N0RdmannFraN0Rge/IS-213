@@ -1,10 +1,12 @@
-# OpenRT
+# OpenFB
 
-OpenRT (Open Remote Trigger) is a trigger system for remotely triggering various events.
-In this project we want the trigger to remote control different lights that are placed on a lecturers desk. All the students in the room can use their own phone and our application to indicate on what level they understand what the lecturer is teaching. The lights on the desk will then light up to show the lecturer if something needs to be repeated or if everything is clear. Due to the fact that many students are shy and afraid of speaking out loud when something is not clear, this gives them the opportunity to give feedback to the lecturer anonymously. 
-The product of the project can also be used for other purposes like triggering a sound, a motor or other devices. 
+Our project involves a web page and phone application that can receive information from multiple users and trigger an event on an arduino based on the information received. The aim of this project is mainly to provide a tool for the lecturer to recieve feedback while teaching.
 
-The aim of this project is mainly to provide a tool for the lecturer to recieve feedback while teaching. 
+OpenFB (OpenFeedback) is a system which gives students the opportunity to easily give feedback about how well they understand the subject being tought in a lecture. The lecturer receives anonymous feedback in the form of different lights that illuminates.
+
+All the students in the lecture can use a phone or a PC to indicate on what level they understand what the lecturer is teaching. The lights on the desk will then light up to show the lecturer if something needs to be repeated or if everything is clear. Due to the fact that many students are shy and afraid of speaking out loud when something is not clear, this gives them the opportunity to give feedback to the lecturer anonymously. 
+
+The product of the project can also be used for other purposes like triggering a sound, a motor or other devices.
 
 Hardware and software used in this project:
 
