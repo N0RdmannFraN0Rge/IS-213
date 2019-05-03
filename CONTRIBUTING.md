@@ -35,17 +35,13 @@ These are the standards that are expected to be followed when contributing to Op
 
 #### Code Standards
 
-* Follow basic programming principles. These includes:
- * Class, method, variable names should be descriptive
- * Class names should use camel case, first letter capitalized (e.g. ClassName)
- * Method and variable names should use camel case, first letter lower case (e.g. methodName)
- * Low degree of code duplication
- * High degree of cohesion
- * Low degree of coupling
+Follow basic programming principles. These includes:
+* Class, method, variable names should be descriptive
+* Class names should use camel case, first letter capitalized (e.g. ClassName)
+* Method and variable names should use camel case, first letter lower case (e.g. methodName)
+* Low degree of code duplication
+* High degree of cohesion
+* Low degree of coupling
 
 **Code example**
 *Insert snapshot of code here*
-
-#### Testing standards
-
-*Insert relevant testing here*
