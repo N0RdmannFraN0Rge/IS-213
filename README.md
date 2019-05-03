@@ -6,7 +6,7 @@ The product of the project can also be used for other purposes like triggering a
 
 The aim of this project is mainly to provide a tool for the lecturer to recieve feedback while teaching. 
 
-Firmware used in this project:
+Hardware and software used in this project:
 
 * **Hardware:**
   * Arduino UNO starter kit
