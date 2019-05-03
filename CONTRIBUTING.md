@@ -31,7 +31,7 @@ There are three topic branches. When contributing, make sure you are working in 
 
 ### Standards
 
-These are the standards that are expected to be followed when contributing to OpenRT. Reviewers are also expected to check that submitted code follows these standards.
+These are the standards that are expected to be followed when contributing to OpenFB. Reviewers are also expected to check that submitted code follows these standards.
 
 #### Code Standards
 
