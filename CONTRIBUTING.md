@@ -26,8 +26,8 @@ In this repository there are two different types of branches:
 There are three topic branches. When contributing, make sure you are working in the correct branch:
 
 1. Branch for phone application code
-1. Branch for Arduino code
-1. Branch for HTML and CSS for the webpage
+1. Branch for arduino code
+1. Branch for web application code
 
 ### Standards
 
