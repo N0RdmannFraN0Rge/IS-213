@@ -21,7 +21,7 @@ Hardware and software used in this project:
 
 ## Getting Started
 
-For instruction on how to build and run OpenRT locally, see the [INSTALLATION.md](INSTALLATION.md) file.
+For instruction on how to build and run OpenFB locally, see the [INSTALLATION.md](INSTALLATION.md) file.
 
 ## Contributing
 
