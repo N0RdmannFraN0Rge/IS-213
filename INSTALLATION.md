@@ -40,4 +40,19 @@ Now that all the code has been downloaded locally on the computer, simply open t
 
 ### Arduino setup
 
+To set up the arduino and WiFi module, follow this table:
 
+|Arduino UNO|ESP8266|
+|:---------:|:-----:|
+|RX|TX|
+|TX|RX|
+|GND|GND|
+|3.3V|VCC|
+|3.3V|CHPD|
+
+* RX and TX is in the arduino code - set to 6 and 7 respectively.
+* Output 10, 11 and 12 are connected to the different LEDs (remember to use 220 Ohm resistors between the LED's cathode and ground).
+
+The setup should look something like this:
+
+<img src="https://user-images.githubusercontent.com/35686045/57137669-d400ba80-6db0-11e9-8377-9df8f1f4c8f9.jpg" width="50%"></img>
