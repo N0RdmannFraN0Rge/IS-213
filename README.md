@@ -11,7 +11,7 @@ The product of the project can also be used for other purposes like triggering a
 ## See OPENFB live
 Try out the web view by clicking [here](http://cddjjt.com/)
 
-## Used
+## Tools
 
 Hardware and software used in this project:
 
