@@ -9,7 +9,7 @@ All the students in the lecture can use a phone or a PC to indicate on what leve
 The product of the project can also be used for other purposes like triggering a sound, a motor or other devices.
 
 # See OPENFB
-Try out the web view by clicking [here](www.cddjjt.com)
+Try out the web view by clicking [[here|www.Cddjjt.com]]
 
 Hardware and software used in this project:
 
