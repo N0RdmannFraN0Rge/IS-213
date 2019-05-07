@@ -56,3 +56,9 @@ To set up the arduino and WiFi module, follow this table:
 The setup should look something like this:
 
 <img src="https://user-images.githubusercontent.com/35686045/57137669-d400ba80-6db0-11e9-8377-9df8f1f4c8f9.jpg" width="50%"></img>
+
+### Android App
+
+1. Run Android studio
+2. Make an empty activity
+3. Paste/replace in the code from MainActivity.Java, Androidmanifest.xml. Inside the Res folder, paste in the code from res/layout/activty_main.xml. If you want the Logo's we have created, include the entire res folder into your project.
