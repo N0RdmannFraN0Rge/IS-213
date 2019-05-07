@@ -61,4 +61,4 @@ The setup should look something like this:
 
 1. Run Android studio
 2. Make an empty activity
-3. Paste/replace in the code from MainActivity.Java, Androidmanifest.xml. Inside the Res folder, paste in the code from res/layout/activty_main.xml. If you want the Logo's we have created, include the entire res folder into your project.
+3. Paste/replace in the code from MainActivity.Java, Androidmanifest.xml. Inside the Res folder, paste in the code from res/layout/activty_main.xml. If you want the logos we have created, include the entire res folder into your project.
