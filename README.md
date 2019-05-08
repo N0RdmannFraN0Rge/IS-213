@@ -1,3 +1,7 @@
+![Logo](https://github.com/N0RdmannFraN0Rge/IS-213/blob/master/MobileApp/res/mipmap-hdpi/ic_launcher.png)
+
+
+
 # OpenFB
 
 Our project involves a web page and phone application that can receive information from multiple users and trigger an event via an arduino, based on the information received. The aim of this project is mainly to provide a tool for a lecturer to recieve feedback while teaching.
