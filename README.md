@@ -30,11 +30,11 @@ Hardware and software used in this project:
 
 ## Getting Started
 
-For instruction on how to build and run OpenFB, see the [Installation guide](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Installation-Guide).
+For instruction on how to build and run OpenFB, see the [Installation guide](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Installation-Guide)in the wiki.
 
 ## Contributing
 
-Want to contribute to the project? Please read the [CONTRIBUTING](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Contributing-Guide) for details on our code of conduct.
+Want to contribute to the project? Please read the [Contributing Guide](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Contributing-Guide) for details on our code of conduct.
 
 ## License
 
