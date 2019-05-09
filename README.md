@@ -34,7 +34,7 @@ For instruction on how to build and run OpenFB, see the [Installation guide](htt
 
 ## Contributing
 
-Want to contribute to the project? Please read the [CONTRIBUTING](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Contributing-Guide) file for details on our code of conduct.
+Want to contribute to the project? Please read the [CONTRIBUTING](https://github.com/N0RdmannFraN0Rge/IS-213/wiki/Contributing-Guide) for details on our code of conduct.
 
 ## License
 
