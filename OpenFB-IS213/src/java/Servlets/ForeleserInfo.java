@@ -100,8 +100,12 @@ public class ForeleserInfo extends HttpServlet {
 
                         String button = request.getParameter("Update");
                         String seconds = request.getParameter("Seconds");
+                        
                         if (button != null){
-                            if(button.equals("Update")){
+                            if(seconds.contains(".") || seconds.contains(",")){
+                               out.println("You can't insert decimal numbers.");
+                            }
+                            else if(button.equals("Update")){
                                 session.setAttribute("Seconds", seconds);
                                 RequestDispatcher rd = request.getRequestDispatcher("DBUpdate");
                                 rd.forward(request,response);

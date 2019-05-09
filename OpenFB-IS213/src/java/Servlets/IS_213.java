@@ -67,7 +67,7 @@ public class IS_213 extends HttpServlet {
                             out.println("<form action=\"IS_213\" method=\"POST\">");
                             out.println("<input id=\"green\" class=\"button\" type=\"Submit\" name=\"Green\" value=\"I understand completely\"><br>");
                             out.println("<input id=\"yellow\" class=\"button\" type=\"Submit\" name=\"Yellow\" value=\"I understand somewhat\"><br>");
-                            out.println("<input id=\"red\" class=\"button\" type=\"Submit\" name=\"Red\" value=\"I dont understand anything\"><br>");
+                            out.println("<input id=\"red\" class=\"button\" type=\"Submit\" name=\"Red\" value=\"I don't understand anything\"><br>");
                             out.println("</form>");
                         out.println("</div>");
                     out.println("</div>");
@@ -102,7 +102,7 @@ public class IS_213 extends HttpServlet {
                     
                 color = request.getParameter("Red");
                 if(color != null){
-                    if(color.equals("I dont understand anything")){
+                    if(color.equals("I don't understand anything")){
                         conn.close();
                         request.setAttribute("sigValue", "1");
                         session.setAttribute("sigValue","1");
